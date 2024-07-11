@@ -1,4 +1,5 @@
 // Copyright 2021 Alexey Varfolomeev <varlesh@gmail.com>
+// Ported to KF6 for use with KDE6 by rab0171610 https://github.com/rab0171610/org.kde.plasma.compact-shutdown
 // Used sources & ideas:
 // - Michail Vourlakos from https://github.com/psifidotos/applet-latte-sidebar-button
 // - Jakub Lipinski from https://gitlab.com/divinae/uswitch
