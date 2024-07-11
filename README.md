@@ -1,5 +1,6 @@
 # org.kde.plasma.compact-shutdown-KF6
 Compact Shutdown Widget for Plasma 6
+
 I have ported the compact-shutdown plasmoid to KF6. The icons in the widget (shutdown, reboot, etc.) are now sourced from the users default icon theme.
 If you are using the default Breeze theme, the icons will likely appear as they always have. This is a change made in Plasma 6 and not in the widget itself.  
 The size of the widget is resizable -- it is no longer defined in the qml code. If you want to increase 
