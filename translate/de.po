@@ -21,28 +21,22 @@ msgid "Logout"
 msgstr "Abmelden"
 
 msgid "Suspend"
-msgstr "Standby-Modus"
+msgstr "Auszusetzen"
 
 msgid "Hibernate"
 msgstr "Ruhezustand"
 
 msgid "Reboot"
-msgstr "Neu starten"
+msgstr "Neustart"
 
 msgid "Shutdown"
-msgstr "Herunterfahren"
+msgstr "Ausschalten"
 
 msgid "Lock Screen"
-msgstr "Sperren"
+msgstr "Bildschirm Sperren"
 
 msgid "Appearance"
-msgstr "Erscheinungsbild"
+msgstr "Aussehen"
 
 msgid "Show buttons:"
-msgstr "Knöpfe anzeigen:"
-
-msgid "Size:"
-msgstr "Größe:"
-
-msgid "Kexec Reboot"
-msgstr "Kexec Neu starten"
+msgstr "Schaltflächen anzeigen:"

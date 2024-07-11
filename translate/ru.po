@@ -41,9 +41,3 @@ msgstr "Внешний вид"
 
 msgid "Show buttons:"
 msgstr "Показывать кнопки:"
-
-msgid "Size:"
-msgstr "Размер:"
-
-msgid "Kexec Reboot"
-msgstr "Kexec перезагрузка"
