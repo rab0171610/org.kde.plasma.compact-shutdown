@@ -40,9 +40,3 @@ msgstr "Apariencia"
 
 msgid "Show buttons:"
 msgstr "Mostrar botones:"
-
-msgid "Size:"
-msgstr "Tamaño:"
-
-msgid "Kexec Reboot"
-msgstr "Kexec Reiniciar"

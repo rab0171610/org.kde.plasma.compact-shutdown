@@ -1,7 +1,6 @@
-import QtQuick 2.0
-import QtQuick.Controls 2.5
-import QtQuick.Layouts 1.12
-import org.kde.kirigami 2.4 as Kirigami
+import QtQuick 2.2
+import QtQuick.Controls 2.1
+import QtQuick.Layouts 1.1
 
 Item {
 
@@ -10,10 +9,7 @@ Item {
     property alias cfg_showSuspend: showSuspend.checked
     property alias cfg_showHibernate: showHibernate.checked
     property alias cfg_showReboot: showReboot.checked
-    property alias cfg_showKexec: showKexec.checked
     property alias cfg_showShutdown: showShutdown.checked
-    property alias cfg_width: widthSpinBox.value
-    property alias cfg_height: heightSpinBox.value
 
     GridLayout {
         columns: 2
@@ -46,39 +42,9 @@ Item {
             Layout.columnSpan: 2
         }
         CheckBox {
-            id: showKexec
-            text: i18n('Kexec Reboot')
-            Layout.columnSpan: 2
-        }
-        CheckBox {
             id: showShutdown
             text: i18n('Shutdown')
             Layout.columnSpan: 2
         }
-        
-        Kirigami.FormLayout {
-        anchors.left: parent.left
-        anchors.right: parent.right
-
-        RowLayout {
-            Kirigami.FormData.label: i18n("Size:")
-            SpinBox {
-                id: widthSpinBox
-                from: 0
-                to: 2147483647 // 2^31-1
-            }
-            Label {
-                text: " x "
-            }
-            SpinBox {
-                id: heightSpinBox
-                from: 0
-                to: 2147483647 // 2^31-1
-            }
-        }
     }
-
 }
-}
-
-

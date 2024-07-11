@@ -40,9 +40,3 @@ msgstr ""
 
 msgid "Show buttons:"
 msgstr ""
-
-msgid "Size:"
-msgstr ""
-
-msgid "Kexec Reboot"
-msgstr ""

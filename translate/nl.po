@@ -40,9 +40,3 @@ msgstr "Vormgeving"
 
 msgid "Show buttons:"
 msgstr "Knoppen tonen:"
-
-msgid "Size:"
-msgstr "Grootte:"
-
-msgid "Kexec Reboot"
-msgstr "Kexec Herstarten"

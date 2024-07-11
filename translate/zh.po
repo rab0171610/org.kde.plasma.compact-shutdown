@@ -40,9 +40,3 @@ msgstr "外貌"
 
 msgid "Show buttons:"
 msgstr "显示按钮:"
-
-msgid "Size:"
-msgstr "大小:"
-
-msgid "Kexec Reboot"
-msgstr "Kexec 重启"

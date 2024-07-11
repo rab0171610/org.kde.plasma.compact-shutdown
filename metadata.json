@@ -1,0 +1,27 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "varlesh@gmail.com",
+                "Name": "Alexey Varfolomeev"
+            }
+        ],
+        "Category": "Utilities",
+        "Dependencies": [
+        ],
+        "Description": "Compact ShutDown widget",
+        "EnabledByDefault": true,
+        "Icon": "system-shutdown",
+        "Id": "org.kde.plasma.compact-shutdown-KF6",
+        "License": "GPL",
+        "Name": "Compact ShutDown",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "1.0",
+        "Website": "https://github.com/varlesh/org.kde.plasma.compact-shutdown"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-MainScript": "ui/main.qml"
+
+}
