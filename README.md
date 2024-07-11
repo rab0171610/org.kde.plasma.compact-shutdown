@@ -11,6 +11,8 @@ In limited tests in a KDE 6 virtual machine, these appeared to work as they alwa
 
 I believe most of the work is done that allows this widget to function as it always did in KDE 5, however it is a work in progress.  I will be updating the credits eventually. If there are any issues while testing this, please let me know.
 To test this plasmoid, download the code and copy the parent directory (org.kde.plasma.compact-shutdown-KF6) to ~/.local/share/plasma/plasmoids. If this directory does not exist, create it.  
-ls ~/.local/share/plasma/plasmoids should return:
+'ls ~/.local/share/plasma/plasmoids' should return:
+
 ~/.local/share/plasma/plasmoids/org.kde.plasma.compact-shutdown-KF6
+
 Logout and log in again.  The widget should now appear in the available widgets list when adding widgets to the panel or the desktop.
