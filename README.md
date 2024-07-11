@@ -16,6 +16,7 @@ To test this plasmoid, download the code and copy the parent directory (org.kde.
 org.kde.plasma.compact-shutdown-KF6
 
 Full path should be:
+
 ~/.local/share/plasma/plasmoids/org.kde.plasma.compact-shutdown-KF6
 
 Logout and log in again.  The widget should now appear in the available widgets list when adding widgets to the panel or the desktop.
