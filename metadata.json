@@ -3,7 +3,7 @@
         "Authors": [
             {
                 "Email": "varlesh@gmail.com",
-                "Name": "Alexey Varfolomeev"
+                "Name": "Alexey Varfolomeev, ported to KF6 by rab0171610"
             }
         ],
         "Category": "Utilities",
@@ -19,7 +19,7 @@
             "Plasma/Applet"
         ],
         "Version": "1.0",
-        "Website": "https://github.com/varlesh/org.kde.plasma.compact-shutdown"
+        "Website": "https://github.com/rab0171610/org.kde.plasma.compact-shutdown"
     },
     "X-Plasma-API-Minimum-Version": "6.0",
     "X-Plasma-MainScript": "ui/main.qml"
